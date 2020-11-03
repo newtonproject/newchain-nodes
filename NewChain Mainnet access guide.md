@@ -1,4 +1,4 @@
-#### NewChain-Nodes Mainnet access guide
+## NewChain-Nodes Mainnet access guide
 
 1. Purchase Elastic Compute Service(ECS) and you may refer to following link
 
@@ -28,17 +28,12 @@ Input keystore and keep keystore, password and minner address
 
 6. Fill in following information and submitt issue
 
-6.1 Node name:
-
-6.2 Minner address:
-
-6.3 RPC Url/RPC Url:
-
-6.4 Node operator name:
-
-6.5 Contacts such as email, telegram account:
-
-6.6 NewPay orNewMask Mainnet NEW address:
+* Node name:
+* Minner address:
+* RPC Url/RPC Url:
+* Node operator name:
+* Contacts such as email, telegram account:
+* NewPay orNewMask Mainnet NEW address:
 
 7. Execute codes as per instructions in following link to upgrade read-only node to accouting node
 
