@@ -1,0 +1,41 @@
+NewChain-Nodes Mainnet deploy instructions/NewChain
+
+1. Purchase Elastic Compute Service(ECS)
+
+https://aws.amazon.com/ec2/
+
+2. Deploy Mainnet as per following instructions to launch block synchronizing
+
+https://github.com/newtonproject/newchain-deploy
+
+3. Check the progress of block synchronizing
+3.1 Execute following command to check the synchronized block height
+
+sudo supervisorctl tail -f newchain stderr
+
+3.2 Make sure block synchronization is completed and same to the latest testnet block height at below link
+
+https://explorer.testnet.newtonproject.org
+
+4. Fill in following information and submitt issue
+4.1 Node name:
+
+4.2 Minner address:
+
+4.3 RPC Url/RPC Url:
+
+4.4 Node operator name:
+
+4.5 Contacts such as email, telegram account:
+
+4.6 NewPay orNewMask Mainnet NEW address:
+
+5. Execute codes as per instructions in following link to upgrade read-only node to accouting node
+
+https://github.com/newtonproject/newchain-deploy/wiki/NewChain-TestNet-mine
+
+Copy minner address and replace 000 in following command to request other node to execute it and approve your upgrade in NewChain minner social media group
+
+/data/newchain/testnet/bin/geth attach /data/newchain/testnet/nodedata/geth.ipc --exec 'clique.propose("000", true)'
+
+6. Wait for the executing code and approval from other nodes operators
