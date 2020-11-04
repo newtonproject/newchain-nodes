@@ -26,11 +26,11 @@ https://explorer.newtonproject.org
 cd /data/newchain/mainnet/ && curl -L https://release.cloud.diynova.com/newton/newchain-deploy/mainnet/newchain-mine.sh -o newchain-mine.sh && chmod +x newchain-mine.sh && ./newchain-mine.sh
 ```
 
-### 5. Set keystore passwoard
+### 5. Set keystore password
 
-Input keystore and keep keystore, password and minner address
+Set keystore password twice and keep keystore, password and minner address. The password shall not be void
 
-### 6. Fill in following information and submitt issue
+### 6. Fill in following information and submitt issue with it
 
 * Node name:
 * Minner address:
