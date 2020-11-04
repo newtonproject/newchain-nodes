@@ -16,11 +16,11 @@ sudo supervisorctl tail -f newchain stderr
 
 3.2 如同步好的区块链高度与下面链接中的测试网最新区块高度一致则同步完成
 
-https://explorer.testnet.newtonproject.org
+https://explorer.newtonproject.org
 
 ### 4. 同步完成后执行下列命令
 
-```
+```bash
 cd /data/newchain/mainnet/ && curl -L https://release.cloud.diynova.com/newton/newchain-deploy/mainnet/newchain-mine.sh -o newchain-mine.sh && chmod +x newchain-mine.sh && ./newchain-mine.sh
 ```
 
@@ -41,7 +41,9 @@ cd /data/newchain/mainnet/ && curl -L https://release.cloud.diynova.com/newton/n
 
 ### 7. Minner地址粘贴替代下列代码中的000:
 
-/data/newchain/testnet/bin/geth attach /data/newchain/testnet/nodedata/geth.ipc --exec 'clique.propose("000", true)'
+```bash
+/data/newchain/mainnet/bin/geth attach /data/newchain/mainnet/nodedata/geth.ipc --exec 'clique.propose("000", true)'
+```
 
 ### 8. 批准加入
 

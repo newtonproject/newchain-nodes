@@ -1,48 +1,48 @@
 ## NewChain-Nodes Mainnet access guide
 
-1. Purchase Elastic Compute Service(ECS) and you may refer to following link
+### 1. Purchase Elastic Compute Service(ECS) and you may refer to following link
 
 https://aws.amazon.com/ec2/
 
-2. Deploy Mainnet as per following instructions to launch block synchronizing
+### 2. Deploy Mainnet as per following instructions to launch block synchronizing
 
-https://github.com/newtonproject/newchain-deploy
+https://github.com/newtonproject/newchain-deploy/blob/master/README-en.md
 
-3. Check the progress of block synchronizing
+### 3. Check the progress of block synchronizing
 
 3.1 Execute following command to check the synchronized block height
 
 sudo supervisorctl tail -f newchain stderr
 
-3.2 Make sure block synchronization is completed and same to the latest testnet block height at below link
+3.2 Make sure block synchronization is completed and same to the latest mainnet block height at below link
 
-https://explorer.testnet.newtonproject.org
+https://explorer.newtonproject.org
 
-4. Execute following command after synchronizing to create minner address and keystore
+### 4. Execute following command after synchronizing to create minner address and keystore
 
-cd /data/newchain/testnet/ && curl -L https://gitee.com/newtonproject/newchain-deploy/raw/master/mine_testnet.sh -o mine_testnet.sh && chmod +x mine_testnet.sh && ./mine_testnet.sh
+```bash
+cd /data/newchain/mainnet/ && curl -L https://release.cloud.diynova.com/newton/newchain-deploy/mainnet/newchain-mine.sh -o newchain-mine.sh && chmod +x newchain-mine.sh && ./newchain-mine.sh
+```
 
-5. Set keystore passwoard
+### 5. Set keystore passwoard
 
 Input keystore and keep keystore, password and minner address
 
-6. Fill in following information and submitt issue
+### 6. Fill in following information and submitt issue
 
 * Node name:
 * Minner address:
 * RPC Url/RPC Url:
 * Node operator name:
 * Contacts such as email, telegram account:
-* NewPay orNewMask Mainnet NEW address:
+* NewPay or NewMask Mainnet NEW address:
 
-7. Execute codes as per instructions in following link to upgrade read-only node to accouting node
+### 7. Copy minner address and replace 000 in following command
 
-https://github.com/newtonproject/newchain-deploy/wiki/NewChain-TestNet-mine
+```bash
+/data/newchain/mainnet/bin/geth attach /data/newchain/mainnet/nodedata/geth.ipc --exec 'clique.propose("000", true)'
+```
 
-Copy minner address and replace 000 in following command to request other node to execute it and approve your upgrade in NewChain minner social media group
+### 8. Send above command containing your minner address to the social group for NewChain nodes
 
-/data/newchain/testnet/bin/geth attach /data/newchain/testnet/nodedata/geth.ipc --exec 'clique.propose("000", true)'
-
-8. Send above command containing your minner address to the social group for NewChain nodes
-
-9. Wait for the executing code and approval from other nodes operators
+### 9. Wait for the executing code and approval from other nodes operators
