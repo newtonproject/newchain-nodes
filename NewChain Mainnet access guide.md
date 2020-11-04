@@ -30,7 +30,7 @@ cd /data/newchain/mainnet/ && curl -L https://release.cloud.diynova.com/newton/n
 
 Set keystore password twice and keep keystore, password and minner address. The password shall not be void
 
-### 6. Fill in following information and submitt issue with it
+### 6. Fill in following information and submit the issue with it
 
 * Node name:
 * Minner address:
