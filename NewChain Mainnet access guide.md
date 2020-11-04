@@ -12,7 +12,9 @@ https://github.com/newtonproject/newchain-deploy/blob/master/README-en.md
 
 3.1 Execute following command to check the synchronized block height
 
+```bash
 sudo supervisorctl tail -f newchain stderr
+```
 
 3.2 Make sure block synchronization is completed and same to the latest mainnet block height at below link
 
