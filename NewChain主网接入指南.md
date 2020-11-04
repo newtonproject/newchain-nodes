@@ -32,12 +32,12 @@ cd /data/newchain/mainnet/ && curl -L https://release.cloud.diynova.com/newton/n
 
 ### 6. 将填写好的如下内容提交issue，提交链接地址:
 
-* Node name/对外显示名称：
-* Minner address/进行打包出块的miner地址：
-* RPC Url/RPC Url（可以是服务器地址加端口）：
-* Node operator name/运行节点主体（个人、社群、组织）名称：
-* Contacts such as email, telegram account/节点负责人及联系方式（手机、邮箱、微信、telegram等均可）：
-* NewPay or NewMask Mainnet NEW address/用于接收主网矿工纪念币的主网NEW地址(NewPay或NewMask)：
+* 对外显示名称：
+* 进行打包出块的miner地址：
+* RPC Url（可以是服务器地址加端口）：
+* 运行节点主体（个人、社群、组织）名称：
+* 节点负责人及联系方式（手机、邮箱、微信、telegram等均可）：
+* 用于接收主网矿工纪念币的主网NEW地址(NewPay或NewMask)：
 
 ### 7. Minner地址粘贴替代下列代码中的000:
 
