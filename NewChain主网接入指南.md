@@ -1,4 +1,4 @@
-## NewChain网接入指南
+## NewChain主网接入指南
 
 ### 1. 购买云服务器，可参考：
 
@@ -14,7 +14,7 @@ https://github.com/newtonproject/newchain-deploy
 
 sudo supervisorctl tail -f newchain stderr
 
-3.2 如同步好的区块链高度与下面链接中的测试网最新区块高度一致则同步完成
+3.2 如同步好的区块链高度与下面链接中的主网最新区块高度一致则同步完成
 
 https://explorer.newtonproject.org
 
@@ -37,7 +37,7 @@ cd /data/newchain/mainnet/ && curl -L https://release.cloud.diynova.com/newton/n
 * RPC Url/RPC Url（可以是服务器地址加端口）：
 * Node operator name/运行节点主体（个人、社群、组织）名称：
 * Contacts such as email, telegram account/节点负责人及联系方式（手机、邮箱、微信、telegram等均可）：
-* NewPay or NewMask Mainnet NEW address/用于接收测试网矿工纪念币的主网NEW地址(NewPay或NewMask)：
+* NewPay or NewMask Mainnet NEW address/用于接收主网矿工纪念币的主网NEW地址(NewPay或NewMask)：
 
 ### 7. Minner地址粘贴替代下列代码中的000:
 
