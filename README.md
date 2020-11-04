@@ -1,4 +1,4 @@
-# newchain-nodes NewChain节点
+# newchain-nodes
 
 NewChain nodes are the key co-constructers of Newton infrastructure. Now Newton NewChain Testnet and Mainnet are opened to the community, individual can deploy Testnet and Mainnet according to the instructions specified in this repo. Afer deploying the NewChai Mainnet, the Mainnet ledger nodes can produce blocks and get NEW as the transaction fees from every transaction.
 
