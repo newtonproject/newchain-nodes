@@ -1,4 +1,4 @@
-## NewChain-Nodes Testnet access guide
+## NewChain-Nodes Testnet ledger nodes deploy guide
 
 ### 1. Purchase Elastic Compute Service(ECS) and you may refer to following link
 
