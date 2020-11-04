@@ -1,9 +1,11 @@
 # newchain-nodes
 
-NewChain nodes are the key co-constructer of Newton infrastructure. Now Newton NewChain Testnet and Mainnet are opened the community, individual can deploy Testnet and Mainnet according to the instructions specified in this repo. Afer deploying the NewChai Mainnet, the Mainnet ledger nodes can produce blocks get NEW from the transaction fees.
+NewChain nodes are the key co-constructers of Newton infrastructure. Now Newton NewChain Testnet and Mainnet are opened to the community, individual can deploy Testnet and Mainnet according to the instructions specified in this repo. Afer deploying the NewChai Mainnet, the Mainnet ledger nodes can produce blocks and get NEW as the transaction fees from every transaction.
 
-In current stage, NewChain MainNet still run with PoA (Proof-of-Authority) consensus mechanism for producing blocks. There are some qualifications for running a Mainnet ledger node,
+In current stage, NewChain MainNet still run with PoA (Proof-of-Authority) consensus mechanism for producing blocks. There are some prerequisites for running a Mainnet ledger node:
+
 1.	NewChain Mainnet ledger nodes shall run a NewChain Testnet node first, ensuring the stability of the network.
+
 2.	NewChain Mainnet ledger nodes shall stake 20 million NEW in NewPay, avoiding any harm from the potential dishonest participant.
 
 NewChain节点是牛顿基础设施的重要共建者。 现在，牛顿NewChain测试网和主网已经向社群开放，个人可以根据此仓库中的说明接入NewChain测试网和主网，接入主网后，可出块获得主网交易手续费。
