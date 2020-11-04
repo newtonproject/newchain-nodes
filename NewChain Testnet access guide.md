@@ -28,7 +28,7 @@ cd /data/newchain/testnet/ && curl -L https://release.cloud.diynova.com/newton/n
 
 ### 5. Set keystore passwoard
 
-Input keystore and keep keystore, password and minner address
+Set keystore password twice and keep keystore, password and minner address. The password shall not be void
 
 ### 6. Fill in following information and submitt issue
 
