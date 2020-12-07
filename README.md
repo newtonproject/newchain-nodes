@@ -6,7 +6,7 @@ In current stage, NewChain MainNet still run with PoA (Proof-of-Authority) conse
 
 1.	NewChain Mainnet ledger nodes shall run a NewChain Testnet node first, ensuring the stability of the network.
 
-2.	NewChain Mainnet ledger nodes shall stake 20 million NEW in NewPay, avoiding any harm from the potential dishonest participant.
+2.	NewChain Mainnet ledger nodes shall stake 10 million NEW in NewPay, avoiding any harm from the potential dishonest participant.
 
 NewChain节点是牛顿基础设施的重要共建者。 现在，牛顿NewChain测试网和主网已经向社群开放，个人可以根据此仓库中的说明接入NewChain测试网和主网，接入主网后，可出块获得主网交易手续费。
 
