@@ -14,7 +14,7 @@ NewChain节点是牛顿基础设施的重要共建者。 现在，牛顿NewChain
 
 1. NewChain Mainnet分类帐节点应首先运行NewChain测试网记账节点，以确保网络的稳定性。
 
-2. NewChain主网记帐节点应在NewPay中锁仓2000万NEW，避免潜在的不诚实参与者造成任何伤害。
+2. NewChain主网记帐节点应在NewPay中锁仓1000万NEW，避免潜在的不诚实参与者造成任何伤害。
 
 ## How to join newchain mainnet? 如何加入NewChain主网？
 
