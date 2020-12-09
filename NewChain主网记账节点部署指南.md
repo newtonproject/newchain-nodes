@@ -38,7 +38,7 @@ cd /data/newchain/mainnet/ && curl -L https://release.cloud.diynova.com/newton/n
 cat /data/newchain/mainnet/nodedata/keystore/*
 ```
 
-keystore为整个花括号及其包含的内容，需要把这个备份一下，切勿泄露给任何人
+keystore为整个大括号及其包含的内容，需要备份好，切勿泄露给任何人
 
 - 备份keystore的密码
 
@@ -47,7 +47,6 @@ keystore为整个花括号及其包含的内容，需要把这个备份一下，
 ```bash
 cat /data/newchain/mainnet/password.txt
 ```
-
 
 ### 6. 将填写好的如下内容提交issue，提交链接地址:
 
