@@ -50,3 +50,9 @@ cd /data/newchain/testnet/ && curl -L https://release.cloud.diynova.com/newton/n
 将替换好自己minner地址的第7项中的命令发送至NewChain testnet nodes群请其他矿工执行该命令批准加入
 
 ### 9. 等待其他节点执行代码批准加入
+
+### 10. 查看是否已成为记账节点
+
+```bash
+/data/newchain/testnet/bin/geth attach /data/newchain/testnet/nodedata/geth.ipc --exec 'clique.getSigners()'
+```
