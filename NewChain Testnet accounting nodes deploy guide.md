@@ -51,4 +51,6 @@ Set keystore password twice and keep keystore, password and minner address. The 
 
 ### 10. Check the testnet accounting nodes list
 
+```bash
 /data/newchain/testnet/bin/geth attach /data/newchain/testnet/nodedata/geth.ipc --exec 'clique.getSigners()'
+```
