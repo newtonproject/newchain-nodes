@@ -30,6 +30,24 @@ cd /data/newchain/testnet/ && curl -L https://release.cloud.diynova.com/newton/n
 
 Set keystore password twice and keep keystore, password and minner address. The password shall not be void
 
+- backup keystore
+
+run follwing codes to get keystore
+
+```bash
+cat /data/newchain/testnet/nodedata/keystore/*
+```
+
+keystore includes the brace and content in the space, it shall be confidential
+
+- back up keystore password
+
+run follwing codes to get keystore password
+
+```bash
+cat /data/newchain/testnet/password.txt
+```
+
 ### 6. Fill in following information and submitt issue
 
 * Node name:
