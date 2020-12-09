@@ -48,3 +48,9 @@ Set keystore password twice and keep keystore, password and minner address. The 
 ### 8. Send above command containing your minner address to the social group for NewChain nodes
 
 ### 9. Wait for the executing code and approval from other nodes operators
+
+### 10. Check the accounting nodes list
+
+```bash
+/data/newchain/mainnet/bin/geth attach /data/newchain/mainnet/nodedata/geth.ipc --exec 'clique.getSigners()'
+```
