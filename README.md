@@ -25,7 +25,7 @@ NewChain节点是牛顿基础设施的重要共建者。 现在，牛顿NewChain
 ## 主网
 
 * [NewChain主网记账节点部署指南](mainnet/NewChain主网记账节点部署指南.md)
-* [当前主网网记账节点列表](mainnet/list-cn.md)
+* [当前主网记账节点列表](mainnet/list-cn.md)
 
 ## Testnet
 
