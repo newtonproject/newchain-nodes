@@ -2,7 +2,7 @@
 
 ## How to join newchain testnet accounting nodes? 
 
-* [NewChain Testnet Access Guide](testnet/NewChain%20Testnet%20accounting%20nodes%20deploy%20guide.md)
+* [NewChain Testnet Accounting Nodes Deploy guide.md](NewChain%20Testnet%20accounting%20nodes%20deploy%20guide.md)
 
 ## Nodes list
 * [Current Testnet Accounting Nodes List](list-en.md)
