@@ -1,4 +1,4 @@
-## NewChain-Nodes Testnet accounting nodes deploy guide
+## NewChain-Nodes Testnet Accounting Nodes Deploy Guide
 
 ### 1. Purchase Elastic Compute Service(ECS) and you may refer to following link
 
