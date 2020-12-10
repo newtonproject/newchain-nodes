@@ -7,6 +7,8 @@
 ## 如何加入NewChain测试网记账节点？
 * [NewChain测试网接入指南](testnet/NewChain测试网记账节点部署指南.md)
 
-## Nodes list 测试网记账节点列表
-* [Nodes list 节点列表](list.md)
+## Nodes list
+* [Current Testnet Accounting Nodes list](list-en.md)
 
+## 节点列表
+* [当前测试网记账节点列表](list-cn.md)
