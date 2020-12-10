@@ -1,4 +1,4 @@
-# Current Testnet nodes list
+# Current Testnet Accounting Nodes List
 
 
 Sr. |<Br> Name | <Br> miner address | RPC Url
