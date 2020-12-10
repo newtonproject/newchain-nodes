@@ -1,7 +1,7 @@
 # Current Testnet Accounting Nodes List
 
 
-Sr. |<Br> Name | <Br> miner address | RPC Url
+Sr. | Name | miner address | RPC Url
 --|--|--|--
 1|Aussie Node | 0xc66760726cD32DeC091D47646552351444e740EC | http://139.99.155.31:8801
 2|联创动力 | 0xBf35d73f70Ea8c74aD0F58c8800CBdE52462536b | http://111.229.219.19:8801
