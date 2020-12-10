@@ -18,18 +18,22 @@ NewChain节点是牛顿基础设施的重要共建者。 现在，牛顿NewChain
 
 ## Mainnet
 
-
 * [NewChain Mainnet Accounting Nodes Deploy Guide](mainnet/NewChain%20Mainnet%20accounting%20%20nodes%20deploy%20guide.md)
 * [Current Mainnet Accounting Nodes List](list-en.md)
+
+
+## 主网
 
 * [NewChain主网记账节点部署指南](mainnet/NewChain主网记账节点部署指南.md)
 * [当前测试网记账节点列表](list-cn.md)
 
 ## Testnet
 
-
 * [NewChain Testnet Accounting Nodes Deploy Guide](testnet/NewChain%20Testnet%20accounting%20nodes%20deploy%20guide.md)
 * [Current Testnet Accounting Nodes List](list-en.md)
+
+
+## 测试网
 
 * [NewChain测试网记账节点部署指南](testnet/NewChain测试网记账节点部署指南.md)
 * [当前测试网记账节点列表](list-cn.md)
