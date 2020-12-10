@@ -16,12 +16,12 @@ NewChain节点是牛顿基础设施的重要共建者。 现在，牛顿NewChain
 
 2. NewChain主网记帐节点应在NewPay中锁仓1000万NEW，避免潜在的不诚实参与者造成任何伤害。
 
-## How to join newchain mainnet? 如何加入NewChain主网？
+## How to join newchain mainnet? 如何成为NewChain主网记账节点.md？
 
-* [NewChain主网接入指南](mainnet/NewChain主网记账节点部署指南.md)
-* [NewChain Mainnet access guide](mainnet/NewChain%20Mainnet%20accounting%20%20nodes%20deploy%20guide.md)
+* [NewChain主网记账节点部署指南](mainnet/NewChain主网记账节点部署指南.md)
+* [NewChain Mainnet Accounting Nodes Deploy Guide](mainnet/NewChain%20Mainnet%20accounting%20%20nodes%20deploy%20guide.md)
 
 ## How to join newchain testnet? 如何加入NewChain测试网？
 
-* [NewChain测试网接入指南](testnet/NewChain测试网记账节点部署指南.md)
-* [NewChain Testnet access guide](testnet/NewChain%20Testnet%20accounting%20nodes%20deploy%20guide.md)
+* [NewChain测试网记账节点部署指南](testnet/NewChain测试网记账节点部署指南.md)
+* [NewChain Testnet Accounting Nodes Deploy Guide](testnet/NewChain%20Testnet%20accounting%20nodes%20deploy%20guide.md)
