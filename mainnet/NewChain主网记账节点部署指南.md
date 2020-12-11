@@ -4,7 +4,7 @@
 
 https://www.aliyun.com/product/ecs?spm=5176.12825654.eofdhaal5.2.36722c4aSDIOpf
 
-### 2. 按照下面链接代码操作部署主网，启动区块同步：
+### 2. 按照下面链接代码操作部署主网只读节点，启动区块同步：
 
 https://github.com/newtonproject/newchain-deploy
 
