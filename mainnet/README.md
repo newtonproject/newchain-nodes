@@ -9,7 +9,7 @@
 
 
 
-## 如何加入NewChain测试网记账节点？
+## 如何加入NewChain主网记账节点？
 * [NewChain主网记账节点部署指南](NewChain主网记账节点部署指南.md)
 
 ## 节点列表
