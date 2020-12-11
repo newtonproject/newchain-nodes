@@ -24,7 +24,7 @@ https://explorer.newtonproject.org
 cd /data/newchain/mainnet/ && curl -L https://release.cloud.diynova.com/newton/newchain-deploy/mainnet/newchain-mine.sh -o newchain-mine.sh && chmod +x newchain-mine.sh && ./newchain-mine.sh
 ```
 
-该命令会下载并运行 newchain-mine.sh 脚本，创建miner并启用挖矿
+该命令会下载并运行 newchain-mine.sh 脚本，会创建0x开头的矿工地址，并启用挖矿。
 
 ### 5. 设置keystore密码
 
@@ -51,7 +51,7 @@ cat /data/newchain/mainnet/password.txt
 ### 6. 将填写好的如下内容提交至主网稳定运行群，供已存在的主网记账节点审核通过：
 
 * 对外显示名称：
-* 进行打包出块的miner地址：
+* 第4步中创建好的0x开头矿工地址：
 * RPC Url（可以是服务器地址加端口）：
 * NewPay社群节点中展示机器节点主体（个人、社群、组织）名称：LEDGER-XXX
 * 节点负责人及联系方式（手机、邮箱、微信、telegram等均可）：
