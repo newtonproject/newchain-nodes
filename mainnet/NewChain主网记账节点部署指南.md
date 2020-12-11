@@ -53,7 +53,7 @@ cat /data/newchain/mainnet/password.txt
 * 对外显示名称：
 * 进行打包出块的miner地址：
 * RPC Url（可以是服务器地址加端口）：
-* 运行节点主体（个人、社群、组织）名称：
+* NewPay中展示运行节点主体（个人、社群、组织）名称：LEDGER-XXX
 * 节点负责人及联系方式（手机、邮箱、微信、telegram等均可）：
 * 用于接收主网矿工纪念币的主网NEW地址(NewPay或NewMask)：
 
