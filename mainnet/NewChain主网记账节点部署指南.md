@@ -57,6 +57,10 @@ cat /data/newchain/mainnet/password.txt
 * 节点负责人及联系方式（手机、邮箱、微信、telegram等均可）：
 * 用于接收主网矿工纪念币的主网NEW地址(NewPay或NewMask)：
 
+或者点击下面链接填写相关信息：
+
+https://github.com/newtonproject/newchain-nodes/issues/new/choose
+
 ### 7. Minner地址粘贴替代下列代码中的000:
 
 ```bash
