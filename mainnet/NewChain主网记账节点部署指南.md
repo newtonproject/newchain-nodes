@@ -69,7 +69,7 @@ https://github.com/newtonproject/newchain-nodes/issues/new/choose
 
 ### 8. 批准加入
 
-将替换好自己minner地址的第7项中的命令发送至NewChain nodes群请其他矿工执行该命令批准加入
+将替换好自己minner地址的第7项中的命令发送至“NewChain主网记账节点稳定运行群”或者在 “https://github.com/newtonproject/newchain-nodes/issues/new/choose” 填写7中代码请其他矿工执行批准加入。
 
 ### 9. 等待其他节点执行代码批准加入
 
