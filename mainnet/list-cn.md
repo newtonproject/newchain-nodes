@@ -9,4 +9,7 @@
 5| litemoment.com |  0x74678c66849C4a6968D9C6E36c1FDe1f142Fd00F | http://miner.litemoment.com:8801
 6| LEDGER-家和社区 |  0x9F8A9645eF5843E2619248377c82A6Fee6d9168e | http://8.135.16.139:8801
 7| LEDGER-联创动力 |  0xc509eD6788A908cf6d8de2544feE65485cb01aaa | http://106.55.254.136:8801
-
+8| LEDGER-NewWorld |  0x6feb7CB7401e0A54d04C11C4d10480DF74750818 | http://139.99.89.4:8801
+9| LEDGER-NewAmbassador |  0x8a4bbc3599a119Ad8c9C45e43521dbF1e803dC85 | http://51.79.167.42:8801
+10| LEDGER-郑清昱 |   | http://:8801
+11| LEDGER-猫姐姐 |   | http://:8801
