@@ -73,7 +73,7 @@ https://github.com/newtonproject/newchain-nodes/issues/new/choose
 
 ### 9. 等待其他节点执行代码批准加入
 
-### 10. 查看是否已成为测试网记账节点
+### 10. 查看是否已成为记账节点
 
 ```bash
 /data/newchain/mainnet/bin/geth attach /data/newchain/mainnet/nodedata/geth.ipc --exec 'clique.getSigners()'
