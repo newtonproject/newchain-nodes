@@ -1,4 +1,4 @@
-# Current Testnet Accounting Nodes List
+# Current Testnet ledger Nodes
 
 Sr. | Name | Miner address | RPC Url | Get testnet NEW contact information
 --|--|--|--|--
