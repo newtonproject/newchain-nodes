@@ -2,7 +2,6 @@
 
 序号 |名称 | 矿工地址  | RPC Url | 联系方式
 --|--|--|--|--
-
 1|Aussie Node | 0xc66760726cD32DeC091D47646552351444e740EC | http://139.99.155.31:8801 | Wechat: Chris_Australia <Br> Telegram: Chris_S
 2|联创动力 | 0xBf35d73f70Ea8c74aD0F58c8800CBdE52462536b | http://111.229.219.19:8801 | 微信号（WeChat）： logY_LCDL
 3|JiXiaNewton (稷下) | 0x25220Fb69c5daDd43117b7DFFd47aDB551855ca9 | http://207.148.24.237:8801 | 微信公众号（同微信号）：JiXiaNewton 稷下牛顿
