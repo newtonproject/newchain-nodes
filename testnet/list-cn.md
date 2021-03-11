@@ -1,6 +1,6 @@
 # 当前测试网记账节点列表
 
-序号 |名称 | 矿工地址  | RPC Url | 获取测试网NEW联系方式 | Get testnet NEW contact information
+序号 |名称 | 矿工地址  | RPC Url | 联系方式
 --|--|--|--|--
 
 1|Aussie Node | 0xc66760726cD32DeC091D47646552351444e740EC | http://139.99.155.31:8801 | Wechat: Chris_Australia <Br> Telegram: Chris_S
