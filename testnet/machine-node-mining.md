@@ -1,0 +1,31 @@
+## 机器节点挖矿
+
+基于[NEP-40](https://neps.newtonproject.org/neps/nep-40/)，在测试网启动机器节点挖矿。
+
+* 注： 现将规则描述如下，如本描述与NEP-40有冲突，以NEP-40为准 *
+
+### 矿来源
+
+从NewForce的每日释放里固定分出 20%  的NEW用于机器节点挖矿
+
+### 分发规则
+
+- 必须有机器节点和社群节点锁仓，机器节点必须在正常记账
+- 每日分发一次
+- 按照社群节点里的锁仓量进行分发
+- 收益分发给社群节点发起人
+- 合伙节点参伙人会扣除管理费给合伙节点发起人
+
+### 节点列表
+
+No. | 名称 | 社群节点发起人地址 | 矿工地址
+--|--|--|--
+1 | X-Team | NEW17zS9ZvgGV1EaT8KT2tLjqRvQbcApjFot8xj (0x97549E368AcaFdCAE786BB93D98379f1D1561a29) | 0x1d7e06ad19339263a51ee47e11b4ffd10d4a83ba
+2 | 共赢社区 | NEW17zEwTmPgUb6xkZrveKvccM7uREYc3NyU7Wy (0x1c6119C4f7b49B7D24088Ed57D04fef50bd162Ca) | 0x1c6119C4f7b49B7D24088Ed57D04fef50bd162Ca
+3 | Mars | NEW17zTDwJG8tKkcUAGSq8hV4kgv3Gysxf4ZJmw (0xa3203F8Ad655AA6c8921721087FC576489A00Bf0) | 0xa3203F8Ad655AA6c8921721087FC576489A00Bf0
+4 | 联创动力 | NEW17zVnS5uv6QHGDgGX96YubcTJaA4xQwcG1AP (0xBf35d73f70Ea8c74aD0F58c8800CBdE52462536b) | 0xBf35d73f70Ea8c74aD0F58c8800CBdE52462536b
+5 | 梦想社区 IMX | NEW17za2cqfKQ2kHrQ28591ij5qMbnrjJjkBAoR (0xeDC52506b7d2cB9db499Bd89929763b5F311b7E6) | 0xeDC52506b7d2cB9db499Bd89929763b5F311b7E6
+6 | News牛使 | NEW17zWbUwnSYg6iUx7YZPfE26FvjGydavVcFqK (0xC81bC73e65E81924eb4D65C6b975D49112595eE9) | 0xC81bC73e65E81924eb4D65C6b975D49112595eE9
+7 | NewAmbassador | NEW17zTJLNpY2LLyCHsY8Be7aCgt2UizbRufFzP (0xA3F52d56889e4454b3F327Fb6a3F5Ec7DBAf8a0C) | 0xA3F52d56889e4454b3F327Fb6a3F5Ec7DBAf8a0C
+8 | 火牛 | NEW17zKKuggDdiG7zZapwsRhRA65TTeHrhSisEH (0x4C80640bCae653d35aeb1cd18261BcA11953ba55) | 0x17FC9cA7aF608D2A5e186549298bB2Ed79c2578F
+
