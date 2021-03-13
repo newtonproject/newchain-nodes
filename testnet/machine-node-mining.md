@@ -2,7 +2,7 @@
 
 基于[NEP-40](https://neps.newtonproject.org/neps/nep-40/)，在测试网启动机器节点挖矿。
 
-* 注： 现将规则描述如下，如本描述与NEP-40有冲突，以NEP-40为准 *
+`注： 如本描述与NEP-40有冲突，以NEP-40为准`
 
 ### 矿来源
 
