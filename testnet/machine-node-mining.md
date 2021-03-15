@@ -15,6 +15,7 @@
 - 按照社群节点里的锁仓量进行分发
 - 收益分发给社群节点发起人
 - 合伙节点参伙人会扣除管理费给合伙节点发起人
+- 分发记录可参考[区块链浏览器](http://e.testnet.diynova.com/address/0x51b912d6cd4E98BD8e89b9808Ad1749c32722e1c/transactions)
 
 ### 节点列表
 
