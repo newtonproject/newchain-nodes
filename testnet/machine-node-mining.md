@@ -1,4 +1,4 @@
-## 机器节点挖矿
+## 测试网机器节点挖矿
 
 基于[NEP-40](https://neps.newtonproject.org/neps/nep-40/)，在测试网启动机器节点挖矿。
 
