@@ -1,6 +1,6 @@
 ## 主网机器节点挖矿
 
-基于[NEP-45](https://github.com/newtonproject/NEPs/issues/45)
+基于[NEP-45](https://github.com/newtonproject/NEPs/issues/45)，在主网启动机器节点挖矿
 
 ### 节点列表
 
